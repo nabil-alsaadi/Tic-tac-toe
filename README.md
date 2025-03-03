@@ -39,13 +39,6 @@ npm run dev
 5. **Replay** previous moves after the game ends.
 6. Click **New Game** to restart.
 
-## 📌 Available Scripts
-```bash
-npm run dev       # Start the development server
-npm run build     # Build the project for production
-npm run lint      # Run linter to check for errors
-npm run test      # Run unit tests
-```
 
 ## 📜 License
 This project is licensed under the **MIT License**.
