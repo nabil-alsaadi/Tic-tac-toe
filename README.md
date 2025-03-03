@@ -2,6 +2,8 @@
 
 A fully interactive Tic-Tac-Toe game built with **React, TypeScript, Redux Toolkit, and Framer Motion**. The game supports **undo, redo, replay, and configurable board sizes**.
 
+![Game page](screenshots/screen1.png)
+
 ## 🚀 Features
 - 🎮 **Two-player game** with alternating turns
 - 🏆 **Winner detection** with highlighted winning line
