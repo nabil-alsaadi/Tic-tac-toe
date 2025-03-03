@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-neutra font-normal;
+}
+
+h1, h2, h3, h4, h5, h6, strong {
+  @apply font-bold;
+}
+
+input:focus, select:focus, textarea:focus {
+  outline: none;
+  border-color: #5aa5af; 
+  box-shadow: 0 0 6px rgba(90, 165, 175, 0.75); 
+  transition: all 0.2s ease-in-out;
+}
+
+input:hover, select:hover, textarea:hover {
+  border-color: #5aa5af;
+}
